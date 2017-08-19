@@ -1,0 +1,31 @@
+{
+  "name": "donurks/php-typed-array",
+  "description": "A base class for typed arrays.",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "php",
+    "array",
+    "type"
+  ],
+  "homepage": "https://github.com/donurks/php-typed-array/",
+  "authors": [
+    {
+      "name": "Eric Müller",
+      "homepage": "https://github.com/donurks"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Donurks\\": "src/Donurks/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Donurks\\": "tests/Donurks"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "6.3.0"
+  }
+}
