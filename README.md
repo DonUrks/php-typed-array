@@ -35,24 +35,6 @@ $myOwnType = new MyOwnType([
 ]);
 ```
 
-### Classes
-```php
-<?php
-chdir(dirname(__DIR__));
-require_once "vendor/autoload.php";
-
-class MyOwnType extends \Donurks\AbstractTypedArray
-{
-    protected $type = \stdClass::class;
-}
-
-$myOwnType = new MyOwnType([
-    new \stdClass(),
-    new \stdClass(),
-    new \stdClass(),
-]);
-```
-
 ### PHP language types
 ```php
 <?php
