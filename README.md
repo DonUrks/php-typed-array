@@ -1,4 +1,7 @@
 [![Build Status](https://travis-ci.org/DonUrks/php-typed-array.svg?branch=master)](https://travis-ci.org/DonUrks/php-typed-array)
+[![Latest Stable Version](https://poser.pugx.org/donurks/php-typed-array/v/stable)](https://packagist.org/packages/donurks/php-typed-array)
+[![Total Downloads](https://poser.pugx.org/donurks/php-typed-array/downloads)](https://packagist.org/packages/donurks/php-typed-array)
+[![License](https://poser.pugx.org/donurks/php-typed-array/license)](https://packagist.org/packages/donurks/php-typed-array)
 
 # php-typed-array
 
