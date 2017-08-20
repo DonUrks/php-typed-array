@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/DonUrks/php-typed-array.svg?branch=master)](https://travis-ci.org/DonUrks/php-typed-array)
+
 # php-typed-array
 
 A PHP class for type safe arrays. This project is based on PHPs [ArrayObject](http://php.net/manual/en/arrayobject.construct.php).
